@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-jose
+passlib[bcrypt]
+pandas
+pytz
+python-dateutil
+reportlab
+python-dotenv
